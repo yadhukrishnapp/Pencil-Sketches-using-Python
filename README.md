@@ -16,4 +16,4 @@ Using cv2.cvtColor function
 Using cv2.GaussianBlur function
 
 # Converting the Blurred Image into Pencil Sketch :
-Using cv2.divide
+Using cv2.divide function
